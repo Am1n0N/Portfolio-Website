@@ -55,7 +55,7 @@ function Projects() {
             <ProjectCard
               imgPath={fullStackRestaurant}
               isBlog={false}
-              title="WhatsAppClone"
+              title="full-Stack-Restaurant"
               description="Full Stack Restaurant is a web application that allows users to view a list of restaurants, view details of a restaurant, view a menu of a restaurant, add items to a cart, and place an order. Users can also view their order history and receive notifications when their order is ready."
               ghLink="https://github.com/Am1n0N/full-stack-restaurant"
               // demoLink="https://chatify-49.web.app/"
